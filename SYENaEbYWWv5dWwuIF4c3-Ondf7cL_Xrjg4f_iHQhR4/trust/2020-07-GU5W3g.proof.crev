@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-07-09T07:38:07.951659600-07:00"
+from:
+  id-type: crev
+  id: SYENaEbYWWv5dWwuIF4c3-Ondf7cL_Xrjg4f_iHQhR4
+  url: "https://github.com/Awfa/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Since I'm trusting cargo-crev, I should trust the author.
+----- SIGN CREV PROOF -----
+6-k6t2RxlZlm2moaOqEYQAqbXZ6vWX9Q2KDspUEUBAKaaiA6b1xi3NnM6KUA389y4jNmAefdRxj8iTmIF6G0Cw
+----- END CREV PROOF -----
+
